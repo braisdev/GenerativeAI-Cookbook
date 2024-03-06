@@ -1,1 +1,1 @@
-# create text and summary with prompt chaining
+# create text and summary with prompt chaining, awesome!
