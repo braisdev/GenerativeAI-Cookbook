@@ -10,6 +10,9 @@ langchain-openai = "*"
 langchain-pinecone = "*"
 pinecone-client = "*"
 unstructured = {extras = ["all-docs"], version = "*"}
+jupyter = "*"
+boto3 = "*"
+botocore = "*"
 
 [dev-packages]
 
